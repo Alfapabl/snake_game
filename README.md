@@ -1,6 +1,6 @@
 # Snake Game in Python
 
-A classic recreation of the old Snake game, implemented in Python using the Pygame library. This project brings back nostalgic gameplay where you control a snake that grows longer as it eats food, all while avoiding collisions with the walls or its own tail.
+A classic recreation of the old Snake game. This project brings back nostalgic gameplay where you control a snake that grows longer as it eats food, all while avoiding collisions with the walls or its own tail.
 
 ## Features
 
@@ -19,4 +19,4 @@ A classic recreation of the old Snake game, implemented in Python using the Pyga
 ## Technologies Used
 
 - **Python:** The core programming language used for the game logic.
-- **Pygame:** A popular library for creating games, handling graphics, sound, and user input.
+
